@@ -38,7 +38,11 @@ For questions, feedback, bug reports, or discussion related to the randomizer, p
 If you wish to have more players in your game just place the other yamls in the Players folder along with any other custom apworlds in the custom_worlds folder as needed.
 
 ### Modding Monster Hunter World
-Once you have Stracker's Loader installed you should have a nativePC folder in the Monster Hunter World. If this is the case, you should be all good to install the mod. In the zip file will be an executable called ArchipelagoGenerator.exe in the folder called MHWGenerator. Once running the executable it will ask you to enter your Archipelago game info and the MHW game location. If everything is in order, the executable should do everything for you to install everything. You will need to do this every time you play a different slot for now. Launching the game will initiate a command prompt where you can enter commands in order to connect to Archipelago. You can also do this through the in game chat.
+* If Stracker's Loader is installed properly there should be a folder in the game folder called nativePC.
+* In the zip file will be an executable called ArchipelagoGenerator.exe in the folder called MHWGenerator.
+* Once running the executable it will ask you to enter your Archipelago game info and the MHW game location.
+  * You will need to do this every time you play a different slot for now.
+* Launching the game will initiate a command prompt where you can enter commands in order to connect to Archipelago. You can also do this through the in game chat.
 
 In order to reset the game to vanilla just remove all folders in nativePC beside plugins. If you remove the plugins folder it will uninstall the all the mods so you will need to install everything again.
 
