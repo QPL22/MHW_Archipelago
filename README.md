@@ -19,7 +19,7 @@ This mod is still in very early alpha (as of September 2025) so many features I 
 
 ## Installation
 ### Prerequisites
-* Have Monster Hunter World installed ver(15.23.00).
+* Have Monster Hunter World installed ver 15.23.00.
   * Note: The mod has been designed with Iceborne in mind. It may not work correctly without it especially with incorrect settings. Following updates will address this.
 * Install [Stacker's Loader](https://www.nexusmods.com/monsterhunterworld/mods/1982) and [Performace Booster and Plugin Extender](https://www.nexusmods.com/monsterhunterworld/mods/3473). Both are required for the mod to run properly.
 * Install the latest Archipelago tools from [Archipelago's GitHub Release's Page](https://github.com/ArchipelagoMW/Archipelago/releases). Run the setup.
