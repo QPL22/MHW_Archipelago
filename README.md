@@ -33,7 +33,7 @@ For questions, feedback, bug reports, or discussion related to the randomizer, p
 * Place the mhw.apworld in the Archipelago\custom_worlds\ folder.
 * Run ArchipelagoGenerate.exe.
 * In Archipelago\output\ there should now be a file with a name like AP_44156741987196879179.zip.
-* Open (https://archipelago.gg/uploads), upload the zip file you just generated, and click "Create New Room" when the popup appears.
+* Open https://archipelago.gg/uploads, upload the zip file you just generated, and click "Create New Room" when the popup appears.
 
 If you wish to have more players in your game just place the other yamls in the Players folder along with any other custom apworlds in the custom_worlds folder as needed.
 
