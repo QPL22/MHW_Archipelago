@@ -9,6 +9,9 @@ An example of this is as follows. Let's say I am playing Monster Hunter World an
 ## What the Mod Changes
 This mod is still in very early alpha (as of September 2025) so many features I want to add haven't been implemented. This has a 4 year long project learning basically from scratch so this is only the beginning.
 
+### IMPORTANT!!!
+These changes are considered cheating! In order to provide other players a good experience only join and open up games to other Archipelago players. I know ICE has a dectection system for modded clients which I would like to implement at some point but is beyond my scope of current knowledge. Capcom is pretty antimodding so please show the community we are mostly a bunch of good apples.
+
 * There are 3 win conditions (More May Be Added Later):
   *   Low Rank: Complete Invader In The Waste.
   *   High Rank: Complete Land of Convergence.
@@ -21,16 +24,19 @@ This mod is still in very early alpha (as of September 2025) so many features I 
 For questions, feedback, bug reports, or discussion related to the randomizer, please visit the "Monster Hunter World" thread in the [Archipelago Discord server](https://discord.com/invite/8Z65BR2).
 
 ## Installation
+### Recommended Steps
+Due to the mod messing with save files and being alpha I highly recommend backing up your save if you want to make sure your treasured save doesn't get lost. To find your game save it will be located C:\Program Files (x86)\Steam\userdata\<Your Steam ID>\582010\remote with the name of the file being SAVEDATA. Just copy itto a different location.
+
 ### Prerequisites
 * Have Monster Hunter World installed ver 15.23.00.
   * Note: The mod has been designed with Iceborne in mind. It may not work correctly without it especially with incorrect settings. Following updates will address this.
 * Install [Stracker's Loader](https://www.nexusmods.com/monsterhunterworld/mods/1982) and [Performace Booster and Plugin Extender](https://www.nexusmods.com/monsterhunterworld/mods/3473). Both are required for the mod to run properly.
 * Install the latest Archipelago tools from [Archipelago's GitHub Release's Page](https://github.com/ArchipelagoMW/Archipelago/releases). Run the setup.
-* Go to the releases page of this repo. If you are the one running Monster Hunter World you will only need to download the .zip.
+* Go to the releases page of this repo. If you are the one running Monster Hunter World you will need to download the .zip and yaml.
 
 ### Archipelago Setup
 * Your yaml is your game settings. You can choose to change these settings with any text editor or keep it as default. When you have this configured in the way you want place it in the Archipelago\Players folder.
-* Place the mhw.apworld in the Archipelago\custom_worlds\ folder.
+* If you have not already download the mhw.apworld. Place the mhw.apworld in the Archipelago\custom_worlds\ folder.
 * Run ArchipelagoGenerate.exe.
 * In Archipelago\output\ there should now be a file with a name like AP_44156741987196879179.zip.
 * Open https://archipelago.gg/uploads, upload the zip file you just generated, and click "Create New Room" when the popup appears.
