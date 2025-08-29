@@ -25,12 +25,12 @@ For questions, feedback, bug reports, or discussion related to the randomizer, p
 
 ## Installation
 ### Recommended Steps
-Due to the mod messing with save files and being alpha I highly recommend backing up your save if you want to make sure your treasured save doesn't get lost. To find your game save it will be located C:\Program Files (x86)\Steam\userdata\<Your Steam ID>\582010\remote with the name of the file being SAVEDATA. Just copy itto a different location.
+Due to the mod messing with save files and being alpha I highly recommend backing up your save if you want to make sure your treasured save doesn't get lost. To find your game save it will be located C:\Program Files (x86)\Steam\userdata\<Your Steam ID>\582010\remote with the name of the file being SAVEDATA. Just copy it to a different location.
 
 ### Prerequisites
 * Have Monster Hunter World installed ver 15.23.00.
   * Note: The mod has been designed with Iceborne in mind. It may not work correctly without it especially with incorrect settings. Following updates will address this.
-* Install [Stracker's Loader](https://www.nexusmods.com/monsterhunterworld/mods/1982) and [Performace Booster and Plugin Extender](https://www.nexusmods.com/monsterhunterworld/mods/3473). Both are required for the mod to run properly.
+* Install [Stracker's Loader](https://www.nexusmods.com/monsterhunterworld/mods/1982) and [Performance Booster and Plugin Extender](https://www.nexusmods.com/monsterhunterworld/mods/3473). Both are required for the mod to run properly.
 * Install the latest Archipelago tools from [Archipelago's GitHub Release's Page](https://github.com/ArchipelagoMW/Archipelago/releases). Run the setup.
 * Go to the releases page of this repo. If you are the one running Monster Hunter World you will need to download the .zip and yaml.
 
