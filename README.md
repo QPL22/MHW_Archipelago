@@ -6,8 +6,10 @@ Basically Archipelago is a system that allows everyone to bring a game of their 
 
 An example of this is as follows. Let's say I am playing Monster Hunter World and my friend is playing Hollow Knight. I end up completing one of my quests in World getting my friend his Mothwing Cloak. This allows him to go to new areas eventually getting me a weapon upgrade. This allows me to take on harder quests in order to get new items for the both of us. This continues until we both end up finishing our games.
 
-## What the Mod Changes
-This mod is still in very early alpha (as of September 2025) so many features I want to add haven't been implemented. This has a 4 year long project learning basically from scratch so this is only the beginning.
+## State of the Mod
+This mod is still in very early alpha (as of March 2026) so many features I want to add haven't been implemented. This has a 4 year long project learning basically from scratch so this is only the beginning. Despite this, the mod is currently very stable in terms of functionality. There may be bugs from time to time, but I pride myself on fixing any major game breaking *relatively* quickly and releasing stable major updates in general. 
+
+## What The Mod Changes
 
 ### IMPORTANT!!!
 These changes are considered cheating! In order to provide other players a good experience only join and open up games to other Archipelago players. I know ICE has a dectection system for modded clients which I would like to implement at some point but is beyond my scope of current knowledge. Capcom is pretty antimodding so please show the community we are mostly a bunch of good apples.
